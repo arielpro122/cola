@@ -1,3 +1,4 @@
+///Ariel Humberto Valle Escoto, 08 de diciembre del 2021
 #include <iostream>
 
 using namespace::std;
@@ -19,7 +20,7 @@ int main(){
 	do
 	{
 		cout << endl << "|-------------------------------------|";
-		cout << endl << "|              ° COLA °               |";
+		cout << endl << "|              Â° COLA Â°               |";
 		cout << endl << "|------------------|------------------|";
 		cout << endl << "| 1. Insertar      | 4. Eliminar      |";
 		cout << endl << "| 2. Buscar        | 5. Desplegar     |";
